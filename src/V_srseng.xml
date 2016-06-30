@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="../../scripts/gt_dictionary.css"?>
+
+<!DOCTYPE r
+PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_dictionary.dtd">
+<r>
+
+<e>
+   <lg>
+      <l pos="V">lemma</l>
+   </lg>
+   <mg>
+   <tg xml:lang="eng">
+       <t pos="V">translation</t>
+   </tg>
+   </mg>
+</e>
+
+
+</r>
