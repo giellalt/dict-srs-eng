@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="../../scripts/gt_dictionary.css"?>
+
+<!DOCTYPE r
+PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_dictionary.dtd">
+<r>
+
+<e>
+   <lg>
+      <l pos="Pcle">doo</l>
+   </lg>
+   <mg>
+   <tg xml:lang="eng">
+       <t pos="Pcle">here</t>
+   </tg>
+   </mg>
+</e>
+
+<e>
+   <lg>
+      <l pos="Pcle">ínídza</l>
+   </lg>
+   <mg>
+   <tg xml:lang="eng">
+       <t pos="Pcle">it so happened</t>
+   </tg>
+   </mg>
+</e>
+
+<e>
+   <lg>
+      <l pos="Pcle">ìsìna</l>
+   </lg>
+   <mg>
+   <tg xml:lang="eng">
+       <t pos="Pcle">it must have been</t>
+   </tg>
+   </mg>
+</e>
+
+<e>
+   <lg>
+      <l pos="Pcle">ùwat'iyi</l>
+   </lg>
+   <mg>
+   <tg xml:lang="eng">
+       <t pos="Pcle">and then</t>
+   </tg>
+   </mg>
+</e>
+
+<e>
+   <lg>
+      <l pos="Pcle">xanìda</l>
+   </lg>
+   <mg>
+   <tg xml:lang="eng">
+       <t pos="Pcle">this is how after a time</t>
+   </tg>
+   </mg>
+</e>
+
+</r>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="../../scripts/gt_dictionary.css"?>
+
+<!DOCTYPE r
+PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_dictionary.dtd">
+<r>
+
+<e>
+   <lg>
+      <l pos="N">diná</l>
+   </lg>
+   <mg>
+   <tg xml:lang="eng">
+       <t pos="N">person</t>
+   </tg>
+   </mg>
+</e>
+
+<e>
+   <lg>
+      <l pos="N">diní</l>
+   </lg>
+   <mg>
+   <tg xml:lang="eng">
+       <t pos="N">this (person)</t>
+   </tg>
+   </mg>
+</e>
+
+<e>
+   <lg>
+      <l pos="N">ii</l>
+   </lg>
+   <mg>
+   <tg xml:lang="eng">
+       <t pos="N">that one</t>
+   </tg>
+   </mg>
+</e>
+
+<e>
+   <lg>
+      <l pos="N">-mì</l>
+   </lg>
+   <mg>
+   <tg xml:lang="eng">
+       <t pos="N">stomach</t>
+   </tg>
+   </mg>
+</e>
+
+<e>
+   <lg>
+      <l pos="N">tłìk'àzá</l>
+   </lg>
+   <mg>
+   <tg xml:lang="eng">
+       <t pos="N">one, only one</t>
+   </tg>
+   </mg>
+</e>
+
+<e>
+   <lg>
+      <l pos="N">tú</l>
+   </lg>
+   <mg>
+   <tg xml:lang="eng">
+       <t pos="N">water</t>
+   </tg>
+   </mg>
+</e>
+
+<e>
+   <lg>
+      <l pos="N">túchu</l>
+   </lg>
+   <mg>
+   <tg xml:lang="eng">
+       <t pos="N">lake</t>
+   </tg>
+   </mg>
+</e>
+
+<e>
+   <lg>
+      <l pos="N">wúnìt'ósì</l>
+   </lg>
+   <mg>
+   <tg xml:lang="eng">
+       <t pos="N">north</t>
+   </tg>
+   </mg>
+</e>
+
+<e>
+   <lg>
+      <l pos="N">xaní</l>
+   </lg>
+   <mg>
+   <tg xml:lang="eng">
+       <t pos="N">buffalo</t>
+   </tg>
+   </mg>
+</e>
+
+</r>
