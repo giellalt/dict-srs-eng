@@ -7,6 +7,17 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e>
    <lg>
+      <l pos="V">diizá</l>
+   </lg>
+   <mg>
+   <tg xml:lang="eng">
+       <t pos="V">go hunting</t>
+   </tg>
+   </mg>
+</e>
+
+<e>
+   <lg>
       <l pos="V">itsiy</l>
    </lg>
    <mg>
@@ -16,5 +27,81 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
    </mg>
 </e>
 
+<e>
+   <lg>
+      <l pos="V">nàgudiitłod</l>
+   </lg>
+   <mg>
+   <tg xml:lang="eng">
+       <t pos="V">jump down</t>
+   </tg>
+   </mg>
+</e>
+
+<e>
+   <lg>
+      <l pos="V">nátsídiitł'á</l>
+   </lg>
+   <mg>
+   <tg xml:lang="eng">
+       <t pos="V">run away (from home)</t>
+   </tg>
+   </mg>
+</e>
+
+<e>
+   <lg>
+      <l pos="V">nàzid</l>
+   </lg>
+   <mg>
+   <tg xml:lang="eng">
+       <t pos="V">stand</t>
+   </tg>
+   </mg>
+</e>
+
+<e>
+   <lg>
+      <l pos="V">ts'ázid</l>
+   </lg>
+   <mg>
+   <tg xml:lang="eng">
+       <t pos="V">wake up</t>
+   </tg>
+   </mg>
+</e>
+
+<e>
+   <lg>
+      <l pos="V">tsídiitł'á</l>
+   </lg>
+   <mg>
+   <tg xml:lang="eng">
+       <t pos="V">run away</t>
+   </tg>
+   </mg>
+</e>
+
+<e>
+   <lg>
+      <l pos="V">zisyá</l>
+   </lg>
+   <mg>
+   <tg xml:lang="eng">
+       <t pos="V">hunt</t>
+   </tg>
+   </mg>
+</e>
+
+<e>
+   <lg>
+      <l pos="V">zisghá</l>
+   </lg>
+   <mg>
+   <tg xml:lang="eng">
+       <t pos="V">hunt</t>
+   </tg>
+   </mg>
+</e>
 
 </r>
